@@ -1,0 +1,29 @@
+table{
+    font-family: "Sans-serif";
+    font-size: 20px;
+    border: 1px solid black;
+    width: 100%;
+    border-collapse:collapse;
+}
+
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+th{
+    border: 1px solid black;
+}
+
+.header-container{
+    background-color: grey;
+}
+.colgroup {
+    display: table-column-group;
+  }
+.row-2{
+    
+    background-color:lightgrey;
+}
+.row-4{
+    background-color:lightgrey;
+}
